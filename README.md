@@ -1,2 +1,3 @@
-# anastasya_portfolio
-Analytic Portfolio
+# Anastasya Portfolio
+
+# [Project 1: Prism RFM Customer Segmentation Analysis]
